@@ -1,0 +1,6 @@
+{
+  "itemDisplayName": "Web App and MongoDB (Cosmos DB)",
+  "description": "This template creates an Azure Web App with a MongoDB database",
+  "githubUsername": "sjwaight",
+  "summary": "Deploys an Azure Web App and a Cosmos DB account with MongoDB API as an environment in a DevTest Lab."
+}
